@@ -1,4 +1,4 @@
-# Title: pc-monitor: Your Web-Based PC Monitoring and Management Dashboard
+# pc-monitor: Your Web-Based PC Monitoring and Management Dashboard
 
 **Key Features:**
 
