@@ -1,0 +1,7 @@
+Flask
+flask-cors
+psutil
+GPUtil
+mss
+PyGetWindow
+pywin32
